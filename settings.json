@@ -1,0 +1,9 @@
+{
+    "settings": {
+        "ID": ENTER_CHAT_ID_HERE,
+        "Current_Bot": "Token"
+        },
+    "Tokens":{
+        "Token":"<Enter_Bot_Token_Here>"
+    }
+}
